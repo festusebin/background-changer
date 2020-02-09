@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    justify-content: center;
+    text-align: center;
+    margin-top: 20rem;
+}
+
+input[type] {
+    padding: 10px;
+    font-size: 1rem;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 600;
+}
+
+input[type]:hover {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #fff;
+}
